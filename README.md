@@ -39,7 +39,8 @@ The dataset includes sales data from a retail store. Each row represents a trans
 
 ## 🎨 Visualizations
 
-![Pivot Chart](https://via.placeholder.com/500x300.png?text=Pivot+Chart)  
+![Screenshot 2025-02-17 at 14 13 37](https://github.com/user-attachments/assets/ce694c4f-ee14-422c-9452-37ce2831b351)
+  
 *Example of a Pivot Chart used in the analysis*
 
 ## 📚 Usage
