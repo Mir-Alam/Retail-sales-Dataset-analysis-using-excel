@@ -16,6 +16,9 @@ This project involves:
 
 The dataset includes sales data from a retail store. Each row represents a transaction, with columns for product details, sales amounts, and other relevant information.
 
+<img width="1101" alt="retail dataset" src="https://github.com/user-attachments/assets/608231ae-00cb-4499-aa59-4f84c4855282" />
+
+
 ## 📈 Analysis and Tools
 
 ### Excel Functions
